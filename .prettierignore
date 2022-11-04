@@ -6,3 +6,4 @@ coverage
 .yarn
 .yarnrc.yml
 sync-fork.yml
+README.md
