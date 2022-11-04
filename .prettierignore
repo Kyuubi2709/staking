@@ -7,3 +7,4 @@ coverage
 .yarnrc.yml
 sync-fork.yml
 README.md
+docker-build.yml
