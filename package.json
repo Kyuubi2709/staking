@@ -2,7 +2,7 @@
   "name": "staking",
   "version": "2.45.2",
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "next",
