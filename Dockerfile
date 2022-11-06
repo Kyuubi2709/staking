@@ -1,7 +1,7 @@
 FROM node:lts as dependencies
 WORKDIR /app
 COPY package.json yarn.lock ./
-RUN yarn install --frozen-lockfile
+RUN yarn install
 
 FROM node:lts as builder
 WORKDIR /app
